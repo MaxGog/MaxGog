@@ -8,4 +8,7 @@
      3. vk.com/maxgoglov
      4. Furrafinity: https://www.furaffinity.net/user/larrymaxs/
 
-My MS Store application: https://www.microsoft.com/store/apps/9NWZMW35Z3Z7
+Choosing gadgets:
+MS Store: https://www.microsoft.com/store/apps/9NWZMW35Z3Z7
+NashStore: https://store.nashstore.ru/store/62becd8afb3ed32a91926816
+
