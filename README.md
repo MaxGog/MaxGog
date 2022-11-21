@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxGog
 - 👀 I’m interested in UWP programs, C#, and games (artwork too)
-- 🌱 I’m currently learning C++, Assambler, arting (Furry)
+- 🌱 I’m currently learning C++, Assambler, arting
 - 💞️ I’m looking to collaborate on my game
 - 📫 How to reach me:
      1. Telegram: @MaxGog (yeah...)
