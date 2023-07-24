@@ -11,9 +11,11 @@ I'm still a student and just learning;) I am involved in several of my projects 
      * 💻 Microsoft Store: https://www.microsoft.com/store/apps/9NWZMW35Z3Z7
      * 📱 NashStore: https://store.nashstore.ru/store/62becd8afb3ed32a91926816
      * 📱 Google Play: https://play.google.com/store/apps/details?id=ru.maxgog.pcsupport
-- Portal Network:
+- Deal:
      * 🖥 Site: https://portal.net.ru/
      * 💻 Microsoft Store: https://www.microsoft.com/store/productId/9PBLB8DCD93J
      * 📱 Google Play: https://play.google.com/store/apps/details?id=ru.maxgog.projectportal
-
+- Feather Page:
+     * 💻 Microsoft Store: [https://www.microsoft.com/store/productId/9PBLB8DCD93J](https://www.microsoft.com/store/productId/9NLH3P7LNX78)
+     * 📱 Google Play: 
 I can also work on Unity and work with 3D objects. In principle, I understand and use computers very well💻
