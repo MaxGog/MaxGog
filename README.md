@@ -14,10 +14,10 @@ I'm still a student and just learning;) I am involved in several of my projects 
      * 💻 Microsoft Store: https://www.microsoft.com/store/productId/9PBLB8DCD93J
      * 📱 Google Play: https://play.google.com/store/apps/details?id=ru.maxgog.projectportal
 - Feather Page:
-     * 💻 Microsoft Store: [https://www.microsoft.com/store/productId/9PBLB8DCD93J](https://www.microsoft.com/store/productId/9NLH3P7LNX78)
+     * 💻 Microsoft Store: [Download](https://www.microsoft.com/store/productId/9NLH3P7LNX78)
      * 📱 Google Play: https://play.google.com/store/apps/details?id=ru.maxgog.pageru
 - Deburg: Mary Story (Demo):
-     * 💻 Microsoft Store: [https://www.microsoft.com/store/productid/9MV3Z24PHKJH?ocid=pdpshare](Download demo!)
+     * 💻 Microsoft Store: [Download Demo!](https://www.microsoft.com/store/productid/9MV3Z24PHKJH?ocid=pdpshare)
      * 📱 Google Play: Coming soon
 
 I can also work on Unity and work with 3D objects. In principle, I understand and use computers very well💻
