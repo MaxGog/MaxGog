@@ -1,8 +1,7 @@
 👋 Hi, I’m @MaxGog or just Max
 
-👀 I’m interested in UWP programs 🐱‍👤, C# programs, Xamarin (NOT .NET MAUI), and games (artwork too). I can also write something in C++ and Python, the experience was. I also have experience working with app stores such as:
+👀 I’m interested in UWP programs 🐱‍👤, C# programs, .NET MAUI, and games (artwork too). I can also write something in C++ and Python. I also have experience working with app stores such as:
 - Microsoft Store 💻
-- NashStore 📱
 - RuStore 📱
 - [Google Play 📱💻](https://play.google.com/store/apps/dev?id=8907255934424789335)
 
