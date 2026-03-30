@@ -19,9 +19,6 @@
 ### 📱 Фреймворки:  
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)  
 
-## 📈 Моя активность  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxGog&show_icons=true&theme=radical)](https://github.com/MaxGog)  
-
 ## 📫 Как со мной связаться?  
 ✉️ **Email**: [Напишите мне](mailto:max.gog2005@outlook.com)  
 💬 **Telegram**: [@MaxGog](https://t.me/MaxGog)  
