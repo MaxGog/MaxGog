@@ -1,11 +1,7 @@
 ### 🦈 About Me
 
-Developer by day, artist by night. 🎨
-
 Hey! I'm Max (aka Max Upshur) — a friendly shark from Russia, building apps and games with soul.
-
 🚀 In development, I swim like a fish, but I prefer to stay a shark — fast, efficient, and with sharp 🦷teeth for bugs
-
 💡 Always learning new stuff and getting a kick out of seeing my projects live in app stores.
 
 📱 **My apps in stores:**  
