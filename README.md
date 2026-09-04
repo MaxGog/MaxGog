@@ -22,7 +22,7 @@ Hey! I'm Max (aka Max Upshur) — a friendly shark from Russia, building apps an
 
 ## 📫 How to reach me?  
 ✉️ **Email**: [Send me a message](mailto:max.gog2005@outlook.com)  
-💬 **Telegram**: [@MaxGog](https://t.me/MaxGog)  
+💬 **Telegram**: [@MaxGoglov](https://t.me/maxgoglov)  
 
 ⭐ **Always open to collaboration and new projects!** ⭐  
 
